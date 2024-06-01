@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmasalil&label=Profile%20views&color=0e75b6&style=flat" alt="sharmasalil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmasalil" alt="sharmasalil" /></a> </p>
-
 - 🔭 I’m currently working on **Frontend and backend automation**
+
+- 👯 I’m looking to collaborate on **Automation Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharmaSalil](https://github.com/SharmaSalil)
 
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmasalil&show_icons=true&locale=en&layout=compact" alt="sharmasalil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmasalil&show_icons=true&locale=en" alt="sharmasalil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmasalil&" alt="sharmasalil" /></p>
