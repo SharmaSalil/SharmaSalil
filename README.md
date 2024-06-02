@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif" alt="MasterHead" align="center" height="300">
+<img src="https://digitalscholar.in/wp-content/uploads/2022/05/Marketing-automation-1.gif" alt="MasterHead" align="center" height="300" width="1000">
 
 <h1 align="center">Hi 👋, I'm Salil Sharma</h1>
 <h3 align="center">A passionate QA Autmation Engineer</h3>
